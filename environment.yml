@@ -1,5 +1,18 @@
+name: previewer
 channels:
-- pyviz
+  - conda-forge
+  - pyviz
+dependencies:
+  - python>=3.6
+  - gdal>=2.4
+  - matplotlib
+  - numpy
+  - xarray
+  - rioxarray
+  - pygmt
+  - pandas
+  - scipy
+  - panel
 
 packages:
 - jupyter-panel-proxy
