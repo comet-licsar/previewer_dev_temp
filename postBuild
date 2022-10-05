@@ -1,8 +1,8 @@
-# not sure if any of this is needed, but keeping
+# not sure if any of this is needed, but keeping for later
 # enable nbserverproxy
-jupyter serverextension enable --sys-prefix nbserverproxy
-# install the panel server extension so that
-# panel launches at startup
-mv panelserverext.py ${NB_PYTHON_PREFIX}/lib/python*/site-packages/
-# enable panel extension
-jupyter serverextension enable --sys-prefix panelserverext
+#jupyter serverextension enable --sys-prefix nbserverproxy
+# # install the panel server extension so that
+# # panel launches at startup
+#mv panel_server_ext.py ${NB_PYTHON_PREFIX}/lib/python*/site-packages/
+# # enable panel extension
+#jupyter serverextension enable --sys-prefix panel_server_ext
