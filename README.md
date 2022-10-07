@@ -2,7 +2,8 @@
 ongoing work for making previews/dashboard  
 
 accessible from binder:  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/comet-licsar/previewer_dev_temp/HEAD?labpath=preview1.ipynb)  
+preview1cube: (data until end of september, together with decomposition)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/comet-licsar/previewer_dev_temp/HEAD?labpath=preview1cube.ipynb)  
 
 # current status
 installed pygmt, panel etc.
