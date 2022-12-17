@@ -13,6 +13,10 @@ dependencies:
   - pandas
   - scipy
   - panel
-
+  - geoviews
+  - cartopy
+  - panel
+  - holoviews
+  - netCDF4
 packages:
 - jupyter-panel-proxy
