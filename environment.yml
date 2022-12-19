@@ -18,5 +18,6 @@ dependencies:
   - panel
   - holoviews=1.14.8
   - netCDF4
+  - jupyter-panel-proxy
 packages:
 - jupyter-panel-proxy
